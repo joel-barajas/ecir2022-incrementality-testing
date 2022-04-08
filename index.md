@@ -1,4 +1,4 @@
-# Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges
+# Online Advertising Incrementality Testing: Practical Lessons, Paid Search and Emerging Challenges
 
 Presented at the [ECIR 2022](https://ecir2022.org/tutorials/) in person!!
 
