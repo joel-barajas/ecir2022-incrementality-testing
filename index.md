@@ -3,7 +3,7 @@
 Presented at the [ECIR 2022](https://ecir2022.org/tutorials/) in person!!
 
 ## Authors
-  - [Joel Barajas](http://www.linkedin.com/pub/joel-barajas/8/6b7/bb0), Amazon, Marketing Measurement
+  - [Joel Barajas](http://www.linkedin.com/pub/joel-barajas/8/6b7/bb0), Amazon, Marketing Measurement(work done while employed at [Yahoo Research](https://research.yahoo.com/researchers/jbarajas?fr=crmas))
   - [Narayan Bhamidipati](https://www.linkedin.com/in/narayanb), [Yahoo Research](https://research.yahoo.com/researchers/narayanb?fr=crmas), yahoo!
   - [James G. Shanahan](https://www.linkedin.com/in/jimis/), Church and Duncan Group Inc., UC Berkeley
 
