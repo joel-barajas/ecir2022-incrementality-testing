@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges
 
-You can use the [editor on GitHub](https://github.com/joel-barajas/ecir2022-incrementality-testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Presented at the [ECIR 2022](https://ecir2022.org/tutorials/) in person!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Authors
+  - [Joel Barajas](http://www.linkedin.com/pub/joel-barajas/8/6b7/bb0), Amazon, Marketing Measurement
+  - [Narayan Bhamidipati](https://www.linkedin.com/in/narayanb), [Yahoo Research](https://research.yahoo.com/researchers/narayanb?fr=crmas), yahoo!
+  - [James G. Shanahan](https://www.linkedin.com/in/jimis/), Church and Duncan Group Inc., UC Berkeley
 
-### Markdown
+## Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Online advertising has historically been approached as an ad-to-user matching problem within sophisticated optimization algorithms. As the research and ad-tech industries have progressed, advertisers have increasingly emphasized the causal effect estimation of their ads (incrementality) using controlled experiments (A/B testing). 
 
-```markdown
-Syntax highlighted code block
+With low lift effects and sparse conversion, the development of incrementality testing platforms at scale suggests tremendous engineering challenges in measurement precision. Similarly, the correct interpretation of results addressing a business goal requires significant data science and experimentation research expertise. 
 
-# Header 1
-## Header 2
-### Header 3
+We propose a practical tutorial in the incrementality testing landscape, including:
+- The business need
+- Literature solutions and industry practices
+- Designs in the development of testing platforms
+- The testing cycle, case studies, and recommendations
+- Emerging trends: identity challenges, paid search, industry trends and solutions
 
-- Bulleted
-- List
+We provide first-hand lessons based on the development of such a platform in a major combined DSP and ad network, and after running several tests for up to two months each over recent years. 
 
-1. Numbered
-2. List
+We elaborate more on the user privacy implications in online experimentation and incrementality testing. We aim to motivate the research community to focus on solutions under these emerging constraints. 
 
-**Bold** and _Italic_ and `Code` text
+## Outline and Presentations
 
-[Link](url) and ![Image](src)
-```
+1. [slides] The basics: context and challenges
+2. [slides] Incrementality Testing: concepts, solutions and literature
+3. [slides] From concept to production: platform building, challenges, case studies
+4. [slides] Deployment at Scale: test cycle and case studies
+5. [slides] Emerging trends: identity challenges, paid search, industry trends and solutions
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Some of the papers cited in the slides are avaiable at the folder [papers](https://github.com/joel-barajas/cikm2021-incrementality-testing/tree/gh-pages/papers)
 
-### Jekyll Themes
+Feedback welcome!! 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joel-barajas/ecir2022-incrementality-testing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
