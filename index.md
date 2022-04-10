@@ -34,7 +34,7 @@ We elaborate more on the user privacy implications in online experimentation and
 
 Some of the papers cited in the slides are avaiable at the folder [papers](https://github.com/joel-barajas/cikm2021-incrementality-testing/tree/gh-pages/papers)
 
-The tutorial conference submission, which includes the detailed outline of the tutorial, is available at the conference proceedings [here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-99739-7_72.pdf). We keep a local copy in this page repository [here] (https://github.com/joel-barajas/ecir2022-incrementality-testing/raw/gh-pages/Barajas2022_tutorial_ecir2022.pdf).
+The tutorial conference submission, which includes the detailed outline of the tutorial, is available at the conference proceedings [here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-99739-7_72.pdf). We keep a local copy in this page repository [here](https://github.com/joel-barajas/ecir2022-incrementality-testing/raw/gh-pages/Barajas2022_tutorial_ecir2022.pdf).
 
 Feedback welcome!! 
 
