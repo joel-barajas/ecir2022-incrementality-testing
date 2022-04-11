@@ -26,11 +26,11 @@ We elaborate more on the user privacy implications in online experimentation and
 
 ## Outline and Presentations
 
-1. [slides] The basics: context and challenges
-2. [slides] Incrementality Testing: concepts, solutions and literature
-3. [slides] From concept to production: platform building, challenges, case studies
-4. [slides] Deployment at Scale: test cycle and case studies
-5. [slides] Emerging trends: identity challenges, paid search, industry trends and solutions
+1. [slides](incrementality_ecir2022_part_1.pdf) The basics: context and challenges
+2. [slides](incrementality_ecir2022_part_2.pdf) Incrementality Testing: concepts, solutions and literature
+3. [slides](incrementality_ecir2022_part_3.pdf) From concept to production: platform building, challenges, case studies
+4. [slides](incrementality_ecir2022_part_4.pdf) Deployment at Scale: test cycle and case studies
+5. [slides](incrementality_ecir2022_part_5.pdf) Emerging trends: identity challenges, paid search, industry trends and solutions
 
 Some of the papers cited in the slides are avaiable at the folder [papers](https://github.com/joel-barajas/cikm2021-incrementality-testing/tree/gh-pages/papers)
 
